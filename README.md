@@ -1,0 +1,4 @@
+An Introduction to Interactive Programming in Python
+=====================================================
+
+This is an intro to python MOOC on coursera. The course was designed by  Joe Warren, Scott Rixner and John Greiner from Rice University. This course is part of the Fundamentals of Computing specialization on Coursera. This repo contains my solutions to the weekly mini projects. We used codeskulptor.org to write, compile and run programs from the course. Since we've used libraries from codeskulptor.org for most of the programs, please follow the link in each files to run the code (or copy and past the code in codeskulptor.org). Thank you.
